@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.countdown-container {
+    margin-top: 3rem;
+}
+
+.countdown-timer {
+    font-size: 4rem;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1rem;
+}
